@@ -18,7 +18,7 @@ lst = []
 form = '{ "name": "%s",\
           "details": {"layout":"%s",\
                       "line":"%s",\
-                      "lattitude":0.0,\
+                      "latitude":0.0,\
                       "longitude":0.0 }}'
 
 for row in rows[1:]:
