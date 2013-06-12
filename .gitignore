@@ -1,0 +1,8 @@
+# Compiled Source
+*.pyc
+
+# Temp Files
+*.py~
+*.html~
+*.*~
+*.go*~
