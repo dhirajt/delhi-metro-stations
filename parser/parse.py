@@ -17,7 +17,7 @@ rows = soup.findAll('table')[2].findAll('tr')
 lst = []
 form = '{ "name": "%s",\
           "details": {"layout":"%s",\
-                      "line":"%s",\
+                      "line":"[%s]",\
                       "latitude":0.0,\
                       "longitude":0.0 }}'
 
